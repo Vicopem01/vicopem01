@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vicopem01" alt="vicopem01" /></a> </p>
 
-- 🔭 I’m currently working at [Aview International](https://aviewint.com)
 
 - 👨‍💻 More of me [https://victhedev.com](https://victhedev.com)
 
