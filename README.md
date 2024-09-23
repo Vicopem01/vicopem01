@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Victor Ogunjobi</h1>
-<h3 align="center">Software developer in Toronto, Canada</h3>
+<h3 align="center">Software developer, ML Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicopem01&label=Profile%20views&color=0e75b6&style=flat" alt="vicopem01" /> </p>
 
